@@ -1,4 +1,7 @@
 # AnglerBase
+AnglerBase is a fisherman database management system created
+using Java and MySQL. It serves as a platform for fishermen to
+connect with the fisheries department.
 # Snapshots
 
 Login page
