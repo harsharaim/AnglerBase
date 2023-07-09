@@ -4,6 +4,7 @@ using Java and MySQL. It serves as a platform for fishermen to
 connect with the fisheries department.
 # Snapshots
 ## Login Page
+
 <img width="600" alt="image" src="https://github.com/harsharaim/AnglerBase/assets/86067494/c9b9e023-de04-4e28-b78c-feed854323a3">
 
 ## Admin Pages
